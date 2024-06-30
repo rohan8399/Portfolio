@@ -64,12 +64,12 @@ const Navbar = () => {
           ))}
           <li>
             <a href="https://www.linkedin.com/in/rp8399" target="_blank" rel="noopener noreferrer">
-              <FaLinkedin className="text-white text-[18px]" />
+              <FaLinkedin className="text-white text-[22px]" />
             </a>
           </li>
           <li>
             <a href="http://github.com/rohan8399" target="_blank" rel="noopener noreferrer">
-              <FaGithub className="text-white text-[18px]" />
+              <FaGithub className="text-white text-[22px]" />
             </a>
           </li>
         </ul>
@@ -104,12 +104,12 @@ const Navbar = () => {
               ))}
               <li>
                 <a href="https://www.linkedin.com/in/rp8399" target="_blank" rel="noopener noreferrer">
-                  <FaLinkedin className="text-white text-[18px]" />
+                  <FaLinkedin className="text-white text-[22px]" />
                 </a>
               </li>
               <li>
                 <a href="http://github.com/rohan8399" target="_blank" rel="noopener noreferrer">
-                  <FaGithub className="text-white text-[18px]" />
+                  <FaGithub className="text-white text-[22px]" />
                 </a>
               </li>
             </ul>
