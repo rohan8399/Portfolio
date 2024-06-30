@@ -25,6 +25,8 @@ import {
   threejs,
 } from "../assets";
 
+import mu from '../assets/company/mu.png';
+
 export const navLinks = [
   {
     id: "about",
@@ -33,6 +35,10 @@ export const navLinks = [
   {
     id: "work",
     title: "Work",
+  },
+  {
+    id: "education",
+    title: "Education",
   },
   {
     id: "contact",
@@ -173,6 +179,32 @@ const experiences = [
   },*/
 ];
 
+const education = [
+  {
+    title: "Masters of Science in Computer Science",
+    company_name: "University of Dayton",
+    icon: meta,
+    iconBg: "#383E56",
+    date: "August 2022 - May 2024",
+    points: [
+      "Graduate Teaching Assistant - Image Processing, 120+ students.",
+     ],
+  },
+  {
+    title: "Bachelor of Engineering in  Computer Engieering",
+    company_name: "University of Mumbai",
+    icon: mu ,
+    iconBg: "#E6DEDD",
+    date: "August 2017 - July 2021",
+    points: [
+      
+    ],
+  },
+  
+ 
+];
+
+
 const testimonials = [
   {
     testimonial:
@@ -267,4 +299,4 @@ const projects = [
   
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { services, technologies, experiences, testimonials, projects, education };
