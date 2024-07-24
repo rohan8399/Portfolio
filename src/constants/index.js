@@ -122,7 +122,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Software Developer",
+    title: "Software Developer (M365)",
     company_name: "General Mills",
     icon: starbucks,
     iconBg: "#383E56",
@@ -130,8 +130,10 @@ const experiences = [
     points: [
       "Automated data workflows with PowerApps and Microsoft Flows for SharePoint Online.",
       "Developed a PowerApps app for product content changes with approval workflows.",
-      "Improved performance with Node.js and Python, boosting data speed by 25%.",
-      "Streamlined CI/CD workflows and increased engagement with responsive SPAs.",
+      "Created a custom PowerApps for a manufacturing plant.",
+      "Implemented Agile methodologies to improve project delivery and maintenance."
+      /*"Improved performance with Node.js and Python, boosting data speed by 25%.",
+      "Streamlined CI/CD workflows and increased engagement with responsive SPAs.",*/
       
 
 
